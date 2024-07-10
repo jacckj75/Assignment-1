@@ -20,7 +20,7 @@ body{font-family: "Azeret Mono", monospace;
     width: 1440px;
      height: 652px;
     margin: 0 auto;
-    background-image:url("./assets/Group.png"),url("./assets/Hero-bg.png");
+    background-image:url("./../assets/Group.png"),url("./../assets/Hero-bg.png");
      background-repeat: no-repeat;
     background-position:  top center, 100% ;
     
@@ -273,7 +273,7 @@ body{font-family: "Azeret Mono", monospace;
            height: 314px;
            padding: 64px 48px 64px 48px;
            margin: 0 auto;
-          background-image:url("./assets/handshake.jpg");
+          background-image:url("./../assets/handshake.jpg");
           background: 0deg rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3), ;
            background-position: center;
            background-size: cover;
