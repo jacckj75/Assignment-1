@@ -126,6 +126,213 @@ body{font-family: "Azeret Mono", monospace;
           margin-bottom: 29px
         }
         .help-people-by-mws-moto{border: 2px solid navy;
-        width: 570px;}       
-        
-        
+        width: 570px;} 
+              /* introduction style end here */
+              /* My Inspiration part start here */
+       .Inspiration{ 
+        width: 1145px;
+          height: 777px;
+           margin: 50px auto;
+       }       
+       .Inspiration h1 , .Current-Target-header h1{
+        width: 852px;
+         height: 39px;
+         color: rgb(13, 19, 33);
+           font-family: Azeret Mono;
+          font-size: 32px;
+          font-weight: 800;
+         margin: 0 auto;
+         text-align: center;
+       }
+    .Inspiration p , .Current-Target-header p{width: 852px;
+        height: 52px;
+        opacity: 0.7;
+        color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+         font-size: 16px;
+           font-weight: 400;
+           margin: 24px auto;
+         text-align: center
+ }
+    .Inspiration-video{
+        width: 1140px;
+       height: 614px;
+       box-sizing: border-box;
+         border: 1px solid rgba(13, 19, 33, 0.2);
+        border-radius: 16px;
+        padding: 32px;
+        margin: 48px 0px;}
+        .inspiration-vdo{
+            border-radius: 16px;
+            margin: 10px 0px;
+        }
+         /* My Inspiration part end here */
+         /* my current target part start here */
+         .Current-Target{
+            width: 1140px;
+           height: 463px;
+           margin: 111px auto;}
+           .Current-Target-header{
+            width: 852px;
+            height: 115px;
+            margin:0 auto 48px;
+           }
+           
+           .Current-Target-coding-details{
+            width: 1140px;
+           height: 300px;
+           display: flex;
+           gap: 24px;
+           
+           }
+         .html-icon, .css-icon, .js-icon {
+          margin-top: 30px;
+            
+
+         }
+         .html, .css, .js {
+          width: 364px;
+          height: 250px;
+          padding: 24px;}
+          .html{border-radius: 16px;
+            background: rgba(255, 76, 30, 0.05);}
+           .css{border-radius: 16px;
+            background: rgba(0, 76, 232, 0.05);} 
+            .js{border-radius: 16px;
+             background: rgba(255, 223, 0, 0.05);}
+        .html-header h1  {width: 284px;
+          height: 36px;
+          color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+          font-size: 24px;
+          font-weight: 800;
+          margin: 8px 0px;
+          
+        }
+        .js-header h1{width: 284px;
+          height: 36px;
+          color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+          font-size: 24px;
+          font-weight: 800;
+          margin: 8px 0px;
+          
+        }
+        .css-header h1{width: 284px;
+          height: 36px;
+          color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+          font-size: 24px;
+          font-weight: 800;
+          margin: 8px 0px;
+          
+        }
+        .html-header p  p{
+          width: 284px;
+           height: 52px;
+           color: rgb(13, 19, 33);
+            font-family: Azeret Mono;
+            font-size: 16px;
+          font-weight: 400;
+          opacity: 0.7;
+          margin: 8px 0px;
+        }
+        .js-header{
+          width: 284px;
+           height: 52px;
+           color: rgb(13, 19, 33);
+            font-family: Azeret Mono;
+            font-size: 16px;
+          font-weight: 400;
+          opacity: 0.7;
+          margin: 8px 0px;
+        }
+        .css-header p {
+          width: 284px;
+           height: 52px;
+           color: rgb(13, 19, 33);
+            font-family: Azeret Mono;
+            font-size: 16px;
+          font-weight: 400;
+          opacity: 0.7;
+          margin: 8px 0px;
+        }
+        .coding-link{width: 284px;
+          height: 20px;
+          margin: 24px 0px;
+          color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+            font-size: 16px;
+             font-weight: 700;
+        }
+        /* my current target part end here */
+        /* i need support part start here */
+        .support-conteiner{
+          width: 1140px;
+           height: 314px;
+           padding: 64px 48px 64px 48px;
+           margin: 0 auto;
+          background-image: url("/assets/handshake.jpg");
+          background: 0deg rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.3), ;
+           background-position: center;
+           background-size: cover;
+           border-radius: 16px;}
+           .support-content{
+            width: 730px;
+            height: 104px;
+            margin: 40px auto;
+            text-align: center;
+           }
+           .support-content h1{
+            height: 36px;
+             margin: 16px 0px;
+             color: rgb(255, 255, 255);
+              font-family: Azeret Mono;
+             font-size: 30px;
+             font-weight: 700; }
+             .support-content p{
+              height: 52px;
+              margin: 16px 0px;
+              color: rgb(255, 255, 255);
+              font-family: Azeret Mono;
+              font-size: 16px;
+              font-weight: 400;
+              opacity: 0.7;}
+          .support-content-footer{
+            width: 730px;
+            height: 100px; 
+          display: flex;
+          justify-content: center;
+          margin: 15px auto;
+             }
+        .feedbacker{
+          width: 548px;
+            height: 57px;
+            padding: 19px 20px 19px 20px;
+            box-sizing: border-box;
+            border: 1px solid rgba(13, 19, 33, 0.15);
+            border-radius: 8px;
+             background: rgb(255, 255, 255);
+             color: rgba(13, 19, 33, 0.4);
+                font-family: Azeret Mono;
+             font-size: 16px;
+          font-weight: 400;
+        }
+        .feedbacker-btn{
+          width: 120px;
+          height: 58px;
+          
+          padding: 17px 20px 17px 20px;
+          border-radius: 8px;
+          background: rgb(255, 255, 255);
+          color: rgb(13, 19, 33);
+              font-family: Azeret Mono;
+             font-size: 20px;
+            font-weight: 600;
+        }
+        /* i need support part end here */
+         /* footer part start here  */
+         .footer-container{border: 5px solid black;
+          width: 1440px;
+          height: 100px;
+         }
