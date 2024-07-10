@@ -1,6 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 body{font-family: "Azeret Mono", monospace;
 }
+/* shared style btn */
+.development-btn{
+    width: 150px;
+    height: 48px;
+    box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  color: rgb(13, 19, 33);
+     font-family: Azeret Mono;
+       font-size: 15px;
+       font-weight: 600;
+  padding: 12px 20px 12px 20px;
+   opacity: 0.7;
+   margin-top: 20px;
+}
 /* introduction style start here */
 .introduction-container{
     width: 1440px;
@@ -52,3 +66,66 @@ body{font-family: "Azeret Mono", monospace;
           margin: 32px 0px;
     }   
     /* introduction style ends here */
+    /* why developent style start here */
+    .Development-conteiner{
+        border-radius: 12px;
+         background: rgba(13, 19, 33, 0.02);
+         width: 1040px;
+         height: 995px;
+        margin: 0 auto;
+           padding: 40px 60px 40px 60px;
+           margin-top: 66px;
+    }
+    .Development-content{
+        width: 1030px;
+      height: 950px;
+       }
+    .Development-header{ 
+        margin: 30px 25px;
+        text-align: center;}
+        .Development-header h1{
+            color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+          font-size: 32px;
+           font-weight: 800;
+           margin-top:  0px ;
+           margin-bottom: 10px;
+        }
+    .Development-header p{
+            color: rgb(13, 19, 33);
+          font-family: Azeret Mono;
+          font-size: 16px;
+              font-weight: 400;
+              opacity: 0.7;}
+              .Development-main-part{
+                width: 970px;
+                height: 830px;
+                margin: 0 auto;
+              }
+    .coding-for-world{ 
+        width: 870px;
+        height: 230px; 
+        margin: 30px auto;
+        display: flex;
+        justify-content: space-between;
+        }
+        .coding-for-world-moto h3{
+            color: rgba(13, 19, 33, 0.7);
+            font-family: Azeret Mono;
+            font-size: 18px;
+           font-weight: 700;
+           margin-top: 5px;
+           margin-bottom: 22px;
+        }
+        .coding-for-world-moto p{
+            color: rgb(13, 19, 33);
+           font-family: Azeret Mono;
+         font-size: 16px;
+          font-weight: 400;
+          opacity: 0.7;
+          margin-bottom: 29px
+        }
+        .help-people-by-mws-moto{border: 2px solid navy;
+        width: 570px;}       
+        
+        
